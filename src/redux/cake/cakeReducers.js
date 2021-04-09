@@ -1,4 +1,3 @@
-import { buyCake } from './cakeActions';
 import { BUY_CAKE } from './cakeTypes';
 
 const initialState = {
